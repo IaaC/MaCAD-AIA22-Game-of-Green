@@ -20,7 +20,7 @@
         <li><a href="#project-webapp">Project WebApp</a></li>
         <li><a href="#project-deployment">Project Deployment</a></li>
         <li><a href="#aia22-webapp">AIA22 WebApp</a></li>
-       <li><a href="#how-to-use-this-repo">How to Use This Repo</a></li>
+        <li><a href="#how-to-use-this-repo">How to Use This Repo</a></li>
       </ul>
     <li><a href="#project-task">Project Task</a></li>
     <li><a href="#dataset-creation">Dataset Creation</a></li>
@@ -32,7 +32,6 @@
     <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -48,7 +47,7 @@ AIA22 WebApp:          <a href="http://aia22.iaac.net:8080/" target="_blank">AIA
 
 ## How To Use This Repo
 01. Use <a href="Collabs/01_GAME_OF_GREEN_EXTRACT_DATA.ipynb" target="_blank">The 1st Collab</a> to extract the data from:
- - Study points dataset from QGIS. you would need the geojson file of the streets points in <a href="https://drive.google.com/file/d/1hdL0OvPkrSNWfaoibtSDqB0o2tm46R8I/view?usp=sharing" target="_blank">here</a>
+ - Study points dataset from QGIS. you can find the geojson file of the streets points in <a href="https://drive.google.com/file/d/1hdL0OvPkrSNWfaoibtSDqB0o2tm46R8I/view?usp=sharing" target="_blank">here</a>
  - OSM using OSMNX library (https://www.openstreetmap.org/)
  - The POWER Project by NASA using it's API (https://power.larc.nasa.gov/) Provides solar and meteorological data sets from NASA research for support of renewable energy, building energy efficiency and agricultural needs.
  - Open Data from Austria's Goverment Web (https://www.data.gv.at/)
@@ -58,19 +57,21 @@ AIA22 WebApp:          <a href="http://aia22.iaac.net:8080/" target="_blank">AIA
  - Create graph network
  - Define green scoring criteria
  - Apply and add scoring to study points dataset
- - Export processed data and feed it to the next notebook
-
+ - Export processed data and feed it to the next notebook. you can find all the exported scored values of all the years between 2000 to 2021 in <a href="https://drive.google.com/drive/folders/1_awCAhXaYtm5TRWiBMFtTSpxvn6DCx4s?usp=sharing" target="_blank">here</a>
+ 
 
 02. Use <a href="02_GAME_OF_GREEN_NORMALIZE_&_SCORE.ipynb" target="_blank">The 2nd Collab</a> to score and create the geojson. This collab is used to:
- - Import GEOJSON from WEB
- - Predict targets
- - Normalize by criteria
- - Score DATA. The output would be a list of climate scored data per year in <a href="https://drive.google.com/drive/folders/1_awCAhXaYtm5TRWiBMFtTSpxvn6DCx4s?usp=sharing" target="_blank">here</a>
+ - Import GEOJSON from WEB. you can find a list of climate scored data per year in <a href="https://drive.google.com/drive/folders/1_awCAhXaYtm5TRWiBMFtTSpxvn6DCx4s?usp=sharing" target="_blank">here</a>
+ - Predict targets.
+ - Normalize by criteria.
+ - Score Data by criteria.
+ - In this collab we exported also <a href="https://drive.google.com/drive/folders/1-e0uGTh7uD928g7CSSsHwliY3w0MciKX?usp=sharing" target="_blank">geojason files</a> for CARTO to visulize them in a map
  
  
-03. Use <a href="03. GAME OF GREEN_LINEAR REGRESSION.ipynb" target="_blank">The 3rd Collab</a> to obtain linear regression cooefficient, in order to predict future score
+03. Use <a href="03. GAME OF GREEN_LINEAR REGRESSION.ipynb" target="_blank">The 3rd Collab</a> to obtain linear regression cooefficient, in order to predict future score. 
+- Make sure you use the final CSV file <a href="https://drive.google.com/file/d/1cIhSnItm5tpEGkFkKcUBSL9wgDfIwuRl/view?usp=sharing" target="_blank">here</a>
 
-04. Use <a href="04_GAME_OF_GREEN_MODEL_PY_WEB.ipynb" target="_blank">The 4th Collab</a> to deploy the project in the webapp. Make sure you use the final geojason file in <a href="https://drive.google.com/file/d/1Z12ph-FwdR5fR1n0RIQ1s_i2z-l3z-gx/view?usp=sharing" target="_blank">here</a>
+04. Use <a href="04_GAME_OF_GREEN_MODEL_PY_WEB.ipynb" target="_blank">The 4th Collab</a> to deploy the project in the webapp. Make sure you use the final geojason file in <a href="https://drive.google.com/file/d/1ZxkEP8h0wIPpwsX6nYB83i6E2-_j5jcs/view?usp=sharing" target="_blank">here</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
