@@ -1,17 +1,12 @@
-<div id="top"></div>
-<br />
-<div align="center">
-   </a>
-  <h1 align="center">Game of Green</h1>
-  Vienna's Game of Green is an Urban Green Analysis Toolbox showing the power of how planting a tree can make an environmental change
-  <p align="center">
-</div>
+ <h1 align="center">Game of Green</h1>
+ Vienna's Game of Green is an Urban Green Analysis Toolbox showing the power of how planting a tree can make an environmental change <p align="center">
+
 
 ![image](images/G4_AS_GameOfGreen.jpg)
 
 <!-- CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+
+  ## <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a>
       <ul>
@@ -31,7 +26,7 @@
     <li><a href="#future-potential">Future Potential</a></li>
     <li><a href="#credits">Credits</a></li>
   </ol>
-</details>
+
 
 
 <!-- ABOUT THE PROJECT -->
