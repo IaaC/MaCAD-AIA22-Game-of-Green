@@ -11,7 +11,7 @@
 
 <!-- CONTENTS -->
 <details>
-  <summary>Contents</summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a>
       <ul>
@@ -47,8 +47,21 @@ Project Deployment:    <a href="http://aia22.iaac.net:8080/g8/map" target="_blan
 AIA22 WebApp:          <a href="http://aia22.iaac.net:8080/" target="_blank">AIA22 Website</a>  <br>
 
 ## How To Use This Repo
-01. Use the colab notebook 
-02.
+01. Use <a href="Collabs/01_GAME_OF_GREEN_EXTRACT_DATA.ipynb" target="_blank">The First Collab</a> to extract the data from:
+- Study points dataset from QGIS
+- OSM using OSMNX library (https://www.openstreetmap.org/)
+- The POWER Project by NASA using it's API (https://power.larc.nasa.gov/) Provides solar and meteorological data sets from NASA research for support of renewable energy, building energy efficiency and agricultural needs.
+- Open Data from Austria's Goverment Web (https://www.data.gv.at/)
+- Public Open Data (https://public.opendatasoft.com/)
+- NEIGHBOR METHOD :https://automating-gis-processes.github.io/site/notebooks/L3/nearest-neighbor-faster.html
+- Process data
+- Create graph network
+- Define green scoring criteria
+- Apply and add scoring to study points dataset
+- Export processed data and feed into K-Means notebook
+
+02.Use <a href="02_GAME_OF_GREEN_NORMALIZE_&_SCORE.ipynb" target="_blank">The Second Collab</a> to score and create the geojson files.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
