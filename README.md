@@ -167,8 +167,9 @@ So our methodology would look as follows:
 <!-- website-showcase -->
 ## Website Showcase
 
-- 
-Here’s a the website showcase, visualizing how the user can zoom in to inspect which areas are most needed for change:
+- Here’s a the website showcase, visualizing how the user can zoom in to inspect which areas are most needed for change:
+
+![image](gifs/vienna_webapp.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
