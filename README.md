@@ -7,7 +7,7 @@
   <p align="center">
 </div>
 
-
+![image](images/G4_AS_GameOfGreen.jpg)
 
 <!-- CONTENTS -->
 <details>
