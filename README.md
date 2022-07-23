@@ -118,26 +118,48 @@ AIA22 WebApp:          <a href="http://aia22.iaac.net:8080/" target="_blank">AIA
 
 ![image](images/G4_AS_GameOfGreen07.jpg)
 
+- Then we scaled our points from 0 to 10, Resulting 0 as a red color point, and 10 as green color point. Here’s an example of two places close to each other that has different scores, one with the worst green quality, and the other with the best quality.
+
+![image](images/G4_AS_GameOfGreen08.jpg)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- metholdology -->
 ## Methodology
 
-text
+- Before training our models , We ran a PCA on our dataset to double check if multi-co-llinearity exists among our features. Then we decided to go with 2 Linear Regression models as we have linear relationships between our variables. One to predict the 2022 Score, Before adding trees. And the other to predict the 2022 Score, after adding trees.
+
+![image](images/G4_AS_GameOfGreen10.jpg)
+
+So our methodology would look as follows:
+
+- compiling the features, scoring them, run a PCA analysis
+- we trained the two models: The Red one to predict the score before adding trees, and the second is the Green one to predict the same score after the user adds trees within a range of area.
+- The output would be two scores to compare After and Before adding trees.
+
+![image](images/G4_AS_GameOfGreen09.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- results -->
 ## Results
 
-text
+- The result of this project is an URBAN GREEN ANALYSIS TOOLBOX showing the power of how planting a tree can make an environmental change.
+
+![image](images/G4_AS_GameOfGreen11.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- user-interface -->
 ## User Interface
 
-text
+- On the INTERACTIVE MAP the user will be visualising colored points revealing areas of the city that could be rewilded and where the areas that are in a good condition. The user would pick a point,  select a radius defining the area to be modified, setting a number of trees to be added.
+
+![image](images/G4_AS_GameOfGreen12.jpg)
+
+
+- And then calculate the a new score after adding trees, the interactive map would return with a different color within the scoring chart range between red and green, and a score value of both between the range of 0 to 10.
+
+![image](images/G4_AS_GameOfGreen13.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -145,7 +167,8 @@ text
 <!-- website-showcase -->
 ## Website Showcase
 
-text
+- 
+Here’s a the website showcase, visualizing how the user can zoom in to inspect which areas are most needed for change:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,7 +176,15 @@ text
 <!-- future-potential -->
 ## Future Potential
 
-text
+or the future potentials>
+
+- Adding other factors not only trees, e.g. water elements, and land use
+- Integrating more UN goals into the project for example sustainable cities and communities
+- Including biodiversity data as other species are part of larger ecosystem
+- integrating Urban planning tools to analyze it together with environmental, climate, economic and represent them in map layers
+- Contributing to Open Data Ostrich , as the UI action can be also document any observation of the surrounding environment, not only interacting with interface
+
+![image](images/G4_AS_GameOfGreen15.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
