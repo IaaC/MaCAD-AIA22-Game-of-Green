@@ -31,10 +31,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a packaged repository for the final project "Game of Green", created at the Masters in Advanced Computation for Architecture and Design by: <a href="https://github.com/charbelllll" target="_blank">Charbel Baliss</a>,<a href="https://github.com/lucialef" target="_blank">Lucia Leva</a>, <a href="https://github.com/jacintomoros" target="_blank">Jacinto Moros</a>, and  <a href="https://github.com/JumanaHamdani" target="_blank">Jumana Hamdani</a>. Faculty: Angelos Chronis,  Aleksandra Jastrzębska, Nariddh Khean & Serjoscha Duering. The repository contains all the necessary information, datasets, notebooks, and links to re-create the project from scratch.
+This is a packaged repository for the final project "Game of Green", created at the Masters in Advanced Computation for Architecture and Design by: <a href="https://github.com/charbelllll" target="_blank">Charbel Baliss</a>,<a href="https://github.com/lucialef" target="_blank">Lucía Leva</a>, <a href="https://github.com/jacintomoros" target="_blank">Jacinto Moros</a>, and  <a href="https://github.com/JumanaHamdani" target="_blank">Jumana Hamdani</a>. Faculty: Angelos Chronis,  Aleksandra Jastrzębska, Nariddh Khean & Serjoscha Duering. The repository contains all the necessary information, datasets, notebooks, and links to re-create the project from scratch.
 
 
-Project Presnetation:  <a href="https://docs.google.com/presentation/d/1VXSuWvEo91wP0wcBf--FRdPsBqciuY39ze6NryveCgw/edit?usp=sharing" target="_blank">Game of Green Blog</a>  <br>
+Project Presnetation:  <a href="https://docs.google.com/presentation/d/1VXSuWvEo91wP0wcBf--FRdPsBqciuY39ze6NryveCgw/edit?usp=sharing" target="_blank">Game of Green Presentation</a>  <br>
 Project Blogpost:      <a href="https://www.iaacblog.com/programs/game-green-urban-green-analysis-toolbox/" target="_blank">Game of Green Blog</a>  <br>
 Project WebApp:        <a href="http://aia22.iaac.net:8080/g8" target="_blank">Game of Green Website</a>  <br>
 Project Deployment:    <a href="http://aia22.iaac.net:8080/g8/map" target="_blank">Game of Green Map</a>  <br>
