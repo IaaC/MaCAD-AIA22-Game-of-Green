@@ -107,7 +107,8 @@ text
 <!-- credits -->
 ## Credits
 
-text
+GAME OF GREEN is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Master of Advanced Computation in Architecture and Design  2021/22 by: Charbel Baliss, Lucía Leva, Jacinto Moros & Jumana Hamdani. Faculty: Angelos Chronis, Aleksandra Jastrzębska, Nariddh Khean & Serjoscha Duering.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
