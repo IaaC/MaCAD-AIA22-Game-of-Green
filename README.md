@@ -55,9 +55,22 @@ AIA22 WebApp:          <a href="http://aia22.iaac.net:8080/" target="_blank">AIA
 <!-- project-task -->
 ## Project Task
 
-text
+Due to the fast urbanization in the cities, the greenery qualities are decreasing,and limiting the access to nature. All that leads to certain environmental hazards, such as air pollution, raise temperature, and other global warming issues. 
+![image](images/G4_AS_GameOfGreen01.jpg)
+
+From there looking at the distribution of the greeneries in the city of Vienna, we noticed that the green fields are condensed on the borders while leaving the center with a poor green quality
+![image](images/G4_AS_GameOfGreen02.jpg)
+
+And In alignment of both The Smart City Wien Framework Strategy and the UN 2030 Agenda of more green spaces interventions can improve the environmental conditions. 
+![image](images/G4_AS_GameOfGreen03.jpg)
+
+Our project comes as a solution. Game of Green that responds to the  lack of Greeneries  in the city  of Vienna specially the central area.Designed for the  decision makers  including urban planners, architects, politicians and even inhabitants to participate with their opinions for a better future. Game of Green will propose the optimal locations of planting trees, displaying a score map where adding a tree can make an environmental change.
+![image](images/G4_AS_GameOfGreen04.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 
 <!-- dataset-creation -->
 ## Dataset Creation
